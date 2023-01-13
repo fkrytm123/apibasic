@@ -1,0 +1,10 @@
+
+#server.port=8181 - properies
+server :
+  port : 8181
+
+spring:
+  datasource:
+    url:
+    username:
+    password:
